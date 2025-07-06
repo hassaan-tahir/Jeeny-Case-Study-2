@@ -7,3 +7,18 @@ This is a simplified ride-booking app  built with **Kotlin** using **basic SQLit
    ```bash
    git clone https://github.com/hassaan-tahir/Jeeny-Case-Study-2.git
 
+2. **Open in Android Studio**
+   Launch Android Studio.
+   Click on "Open" and select the cloned project folder.
+
+3. **Build the Project**
+   Let Gradle sync fully.
+   Make sure all dependencies are downloaded.
+
+4. **Run on emulator or real device**
+   Choose an emulator or connect a physical Android device.
+   Press the Run ▶ button to build and launch the app.
+
+5. **Login with demo credentials**
+   User: user@user.com / user123
+   Driver: driver@driver.com / driver123
